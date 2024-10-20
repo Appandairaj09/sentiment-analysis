@@ -1,2 +1,0 @@
-#SENTIMENT ANALYSIS 
-by Appandairaj
